@@ -9,6 +9,12 @@
   <a href="https://www.linkedin.com/in/kareen-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
+  <div align="center">
+  <a href="https://github.com/gomesgeorgelucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kareenketleen&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareenketleen&layout=compact&langs_count=5&theme=dark"/>  
+</div>
+  
   <div>
 <img src= "https://raw.githubusercontent.com/kareenketleen/kareenketleen/snake_output/github-contribution-grid-snake-dark.svg"/>
 </div>
