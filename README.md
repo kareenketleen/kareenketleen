@@ -8,6 +8,10 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/kareen-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+  
+  <div>
+<img src= "https://raw.githubusercontent.com/kareenketleen/kareenketleen/snake_output/github-contribution-grid-snake-dark.svg"/>
+</div>
 <!--
 **kareenketleen/kareenketleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
