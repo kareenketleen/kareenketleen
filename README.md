@@ -1,5 +1,13 @@
-### Hi there 👋
-
+##
+### Olá! Me chamo Kareen Castro 😎, sou desenvolvedora Front-End 💻, no caminho para me tornar Product Owner !🙌
+##
+<div align = "center"> 
+<p> Sou formada em análise de sistemas e estou me especializando em Gestão Ágil de Projetos. </p>
+  <p> Apaixonada por Arts&Crafts e DIY 👩‍🎨 - E compartilho a ideia de que sempre há um app pra tudo 🤙(pelo menos deveria ter)👌.</p> 
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kareen-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 <!--
 **kareenketleen/kareenketleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
