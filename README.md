@@ -1,5 +1,6 @@
 ##
-<div align="center"> <h3> Sou Kareen Castro 😎, sou desenvolvedora Front-End 💻, no caminho para me tornar Product Owner !🙌 </h3>
+<div align="center"> <h3> Sou Kareen Castro 😎! </br>
+  Desenvolvedora Front-End 💻, trilhando o caminho das metodologias ágeis!🙌 </h3>
   </div>
   
 ##
