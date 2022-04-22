@@ -1,13 +1,18 @@
 ##
-### === Olá! Me chamo Kareen Castro 😎, sou desenvolvedora Front-End 💻, no caminho para me tornar Product Owner !🙌 ===
+<div align="center"> <h3> Sou Kareen Castro 😎, sou desenvolvedora Front-End 💻, no caminho para me tornar Product Owner !🙌 </h3>
+  </div>
+  
 ##
 <div align = "center"> 
-<p> Sou analista de sistemas, me especializando em Gestão Ágil de Projetos. </p>
+<p> ==== Sou analista de sistemas, me especializando em Gestão Ágil de Projetos. ==== </p>
   <p> Apaixonada pela arte do canto (cantora-soprano) e dollcollector de coração 👩‍🎨 - Compartilho a ideia de que sempre há um app pra tudo 🤙(pelo menos deveria ter)👌.</p> 
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/kareen-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+  <br/>
+  <br/>
+  
   
   <div align="center">
    <img align="center" alt="kareenketleen-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -25,12 +30,34 @@
   <img align="center" alt="kareenketleen-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="kareenketleen-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>
-  
+  <br/>
+  <br/>
   <div align="center">
   <a href="https://github.com/kareenketleen">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kareenketleen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareenketleen&layout=compact&langs_count=7&theme=tokyonight"/>  
 </div>
+  </br>
+  
+  <div align = "center">
+     <h4>Projetos Atuais:</h4>
+    <p>
+      <a href="https://github.com/gomesgeorgelucas/TaskFeed">TaskFeed</a>:
+      Gerenciador de tarefas diferente que consome uma lista de tarefas
+      repetitivas cadastradas no Google Calendar e as transforma em um feed de
+      atividades, que podem ser marcadas como completadas ou atrasadas e
+      exibidas em um web app.
+  </p>
+   <p>
+        Contributors:
+        <a href="https://github.com/gomesgeorgelucas">George Lucas Gomes </a> |
+        BackEnd | DevOps |
+    </p>    
+    <p>
+        ***** Tech: Spring Boot -- Angular (it's me ✌) -- MongoDB -- Heroku *****
+    </p> 
+</div>
+  
   
   <div>
 <img src= "https://raw.githubusercontent.com/kareenketleen/kareenketleen/snake_output/github-contribution-grid-snake-dark.svg"/>
